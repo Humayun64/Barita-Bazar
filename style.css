@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bg-car{
+    
+    background:#FEEAE9;
+    margin-top: 50px;
+}
+.categories{
+    margin-top: 50px;
+
+}
+.categories h1{
+    color: #FEEAE9;
+}
+.categories img{
+    width: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.cat1{
+    background: #FFB328;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat2{
+    background: #FF3A88;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat3{
+    background: #4153FC;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+
+/* shoes */
+.shoes{
+    margin-top: 50px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card img{
+    
+}
+
+.bags{
+    margin-top: 50px;
+}
+#know{
+    height: 500px;
+}
+
+.fot{
+    margin-top: 50px;
+    text-align: center;
+}
